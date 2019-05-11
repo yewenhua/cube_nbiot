@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>卡片开锁@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FF304D" offset="0%"></stop>
+            <stop stop-color="#FF72A0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFDBE6" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-8" transform="translate(-172.000000, -166.000000)">
+            <g id="卡片开锁" transform="translate(172.000000, 166.000000)">
+                <circle id="椭圆形" fill="url(#linearGradient-1)" cx="19" cy="19" r="19"></circle>
+                <g id="卡" transform="translate(7.000000, 7.000000)">
+                    <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                    <path d="M19.3919443,4.50798359 L4.50444598,4.50798359 C2.8225383,4.50798359 1.45417005,5.81243517 1.45417005,7.41577209 L1.45417005,8.95005984 L22.4421722,8.95005984 L22.4421722,7.41577209 C22.4421962,5.81243517 21.0738519,4.50798359 19.3919443,4.50798359 Z M1.45417008,18.0549108 C1.45417008,19.6582957 2.82251435,20.9627233 4.504446,20.9627233 L19.3919443,20.9627233 C21.0738519,20.9627233 22.4421962,19.6582717 22.4421962,18.0549108 L22.4421962,11.9240435 L1.45417008,11.9240435 L1.45417008,18.0549108 Z M14.1185436,16.4809539 L18.4835841,16.4809539 C18.9207118,16.4809539 19.2750475,16.8352897 19.2750475,17.2724173 C19.2750475,17.7095449 18.9207118,18.0638807 18.4835841,18.0638807 L14.1185436,18.0638807 C13.681416,18.0638807 13.3270802,17.7095449 13.3270802,17.2724173 C13.3270802,16.8352897 13.681416,16.4809539 14.1185436,16.4809539 Z" id="形状" fill="url(#linearGradient-2)" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

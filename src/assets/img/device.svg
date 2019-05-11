@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>设备管理@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="所有图标" transform="translate(-49.000000, -479.000000)" fill="#657AD1" fill-rule="nonzero">
+            <g id="1" transform="translate(49.000000, 479.000000)">
+                <path d="M19.05,8.3 L17.175,8.3 C17.175,5.3 14.85,2.975 11.925,2.975 C9,2.975 6.675,5.3 6.675,8.3 L4.8,8.3 C4.8,4.7 8.025,1.1 11.925,1.1 C15.825,1.1 19.05,4.625 19.05,8.3 Z" id="形状"></path>
+                <path d="M4,10 L20,10 C21.1045695,10 22,10.8954305 22,12 L22,20 C22,21.1045695 21.1045695,22 20,22 L4,22 C2.8954305,22 2,21.1045695 2,20 L2,12 C2,10.8954305 2.8954305,10 4,10 Z M14,18.505618 L14,14.494382 C14,13.6292135 13.1219512,13 12.1463415,13 L11.8536585,13 C10.7804878,13 10,13.7078652 10,14.494382 L10,18.505618 C10,19.3707865 10.8780488,20 11.8536585,20 L12.1463415,20 C13.2195122,20 14,19.2921348 14,18.505618 Z" id="合并形状"></path>
+            </g>
+        </g>
+    </g>
+</svg>
